@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Curt Cadwell	ccadwell@jsibiz.com
 
 # THANKS
 
